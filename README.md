@@ -1,7 +1,7 @@
-# IoT-Smart-Farm-
+
+# IOT - Smart -Farm:: Internet of Turkeys?
 Automates the Temperature(LMT84) and Gas(SGP30) conditions of a chicken coop remotely
 
-# IOT :: Internet of Turkeys?
 ## Motivation
 7.53 Billion people share our Planet, and so do they share our resources. With a surge in population bringing an increasing demand on our constrained food resources. Our team decided to develop a solution which would help bring the benefits of IOT into the food industry.
 Animal Husbandry and Farming was our subject of interest and through CoopX we have developed a solution which leverages the benefits of the Internet of Things and brings value to this industry by helping farmers take better care of the fowl, become more competitive and gain a higher return on investment.
